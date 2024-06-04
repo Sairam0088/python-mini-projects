@@ -1,0 +1,33 @@
+{
+    "catalog": {
+        "book": [
+            {
+                "@id": "101",
+                "author": "Randall, Cynthia",
+                "title": "Lover Birds",
+                "genre": "Romance",
+                "price": "4.95",
+                "publish_date": "2000-09-02",
+                "description": "When Carla meets Paul at an ornithology \n      conference, tempers fly as feathers get ruffled."
+            },
+            {
+                "@id": "102",
+                "author": "Kress, Peter",
+                "title": "Paradox Lost",
+                "genre": "Science Fiction",
+                "price": "6.95",
+                "publish_date": "2000-11-02",
+                "description": "After an inadvertant trip through a Heisenberg\n      Uncertainty Device, James Salway discovers the problems \n      of being quantum."
+            },
+            {
+                "@id": "103",
+                "author": "O'Brien, Tim",
+                "title": "Microsoft .NET: The Programming Bible",
+                "genre": "Computer",
+                "price": "36.95",
+                "publish_date": "2000-12-09",
+                "description": "Microsoft's .NET initiative is explored in \n      detail in this deep programmer's reference."
+            }
+        ]
+    }
+}
